@@ -2,7 +2,8 @@
 
 ### Project Notes
 * Basic grade table that displays a student's name, course and grade
-* This was good introduction to using Firebase and the built in operations
+* This table allows users to view, update, add and remove entries
+* This was good introduction to Firebase and using the built in operations
 * Live Demo http://www.maximilianmayo.com/firebase-sgt/
 
 ![screen shot of grade table](/images/sgt.png?raw=true "screnshot of grade table")
